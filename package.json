@@ -1,0 +1,17 @@
+{
+  "name": "clean-jelly-header-parser",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ninjazim/header-parser.git"
+  }
+}
